@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ShakaMarineApp</string>
+    <string name="title_activity_home_page">HomePage</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!--Names -->
+    <string-array name="Hotel_Names">
+        <item>Hilton_Hotel</item>
+        <item>Protea_Hotel</item>
+        <item>Gooderson_Tropicana</item>
+        <item>Waterfront</item>
+        <item>The_Balmoral</item>
+    </string-array>
+
+    <!-- Pictures -->
+    <array name="Hotel_pics">
+        <item>@drawable/hiltonhot</item>
+        <item>@drawable/proteahot</item>
+        <item>@drawable/ggodersonhot</item>
+        <item>@drawable/waterfront</item>
+        <item>@drawable/balmoral</item>
+    </array>
+
+    <!-- Prices -->
+    <string-array name="prices">
+        <item>R1279</item>
+        <item>R1599</item>
+        <item>R1359</item>
+        <item>R971</item>
+        <item>R1000</item>
+    </string-array>
+</resources>
